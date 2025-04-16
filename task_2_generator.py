@@ -54,7 +54,3 @@ text = "Загальний дохід працівника складаєтьс�
 total_income = sum_profit(text, generator_numbers)
 print(f"Загальний дохід: {total_income}") # Загальний дохід: 1351.46
 
-#
-# text_with_non_separated = "Текст з 123.45слово56.78."
-# total_non_separated = sum_profit(text_with_non_separated, generator_numbers_no_regex)
-# print(f"Загальна сума (без чіткого розділення): {total_non_separated}")
